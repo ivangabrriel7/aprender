@@ -1,0 +1,50 @@
+body{
+    overflow-x: hidden;
+}
+header{
+    background-image: url(assets/img/buenos-aires.jpg); 
+    background-attachment: fixed;
+    background-size: cover;
+    height: 90vh;
+  
+  
+   
+
+}
+nav{
+    
+}
+.title{
+    position: absolute;
+   
+    
+    
+    
+    bottom: 5%;
+    text-shadow: black 1px 2px 8px;
+    text-align: center;
+    justify-content: center;
+
+    
+}
+header{
+    position: relative;
+    background-color:;
+}
+
+
+.row{
+    margin: 0;
+    
+    
+    
+}
+#row-perfil img{
+    border-radius: 40px  10px;
+}
+#row-contacto{
+    height: 40vh;
+}
+#low-elegirnos{
+    width: 99vw;
+}
