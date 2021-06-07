@@ -2,7 +2,7 @@ body{
     overflow-x: hidden;
 }
 header{
-    background-image: url(assets/img/buenos-aires.jpg); 
+    background-image: url(buenos-aires.jpg); 
     background-attachment: fixed;
     background-size: cover;
     height: 90vh;
